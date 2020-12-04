@@ -1,10 +1,10 @@
 fname,lname,age,gender,country,city,street
-assaf,hazan,30,m,ιωψΰμ,tel aviv,beit hilel 1
-daniel,premisler,33,m,ιωψΰμ,τϊη ϊχεεδ,ΰηγ δςν 17
-adam,efrati,34,m,ιωψΰμ,απι αψχ,γα βψεπψ 2
-serj,itzhakov,34,m,ιωψΰμ,ϊμ ΰαια,ΰιψερ 2
-alon,shomron,32,m,ιωψΰμ,ψΰωεο μφιεο,λφπμρεο 26
-jenia,premisler,60,m,ιωψΰμ,ψΰωεο μφιεο,δπεψιϊ 1
-olla,premisler,38,f,ιωψΰμ,ηιτδ,χψο διρεγ
-dana,saar,25,f,ιωψΰμ,χγιξδ,δδρϊγψεϊ 3
-noam,saar,30,m,ιωψΰμ,πϊπιδ,ξεψιδ 5
+assaf,hazan,30,m,Χ™Χ©Χ¨ΧΧ,tel aviv,beit hilel 1
+daniel,premisler,33,m,Χ™Χ©Χ¨ΧΧ,Χ¤ΧªΧ— ΧªΧ§Χ•Χ•Χ”,ΧΧ—Χ“ Χ”ΧΆΧ 17
+adam,efrati,34,m,Χ™Χ©Χ¨ΧΧ,Χ‘Χ Χ™ Χ‘Χ¨Χ§,Χ“Χ‘ Χ’Χ¨Χ•Χ Χ¨ 2
+serj,itzhakov,34,m,Χ™Χ©Χ¨ΧΧ,ΧªΧ ΧΧ‘Χ™Χ‘,ΧΧ™Χ¨Χ•Χ΅ 2
+alon,shomron,32,m,Χ™Χ©Χ¨ΧΧ,Χ¨ΧΧ©Χ•Χ ΧΧ¦Χ™Χ•Χ,Χ›Χ¦Χ ΧΧ΅Χ•Χ 26
+jenia,premisler,60,m,Χ™Χ©Χ¨ΧΧ,Χ¨ΧΧ©Χ•Χ ΧΧ¦Χ™Χ•Χ,Χ”Χ Χ•Χ¨Χ™Χª 1
+olla,premisler,38,f,Χ™Χ©Χ¨ΧΧ,Χ—Χ™Χ¤Χ”,Χ§Χ¨Χ Χ”Χ™Χ΅Χ•Χ“
+dana,saar,25,f,Χ™Χ©Χ¨ΧΧ,Χ§Χ“Χ™ΧΧ”,Χ”Χ”Χ΅ΧªΧ“Χ¨Χ•Χª 3
+noam,saar,30,m,Χ™Χ©Χ¨ΧΧ,Χ ΧªΧ Χ™Χ”,ΧΧ•Χ¨Χ™Χ” 5
