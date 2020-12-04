@@ -1,0 +1,10 @@
+fname,lname,age,gender,country,city,street,full address,group id
+Daniel,Premisler,33,M,ישראל,Petah Tikva,Ahad HaAm ,"Israel ,Petah Tikva ,Ahad HaAm ",1
+Dana,Saar,25,F,Israel,Kadima - Zoran,HaHistadrut ,"Israel ,Kadima - Zoran ,HaHistadrut ",1
+Alon,Shomron,32,M,Israel,Rishon LeZion,Katznelson Berl 26,"Israel ,Rishon LeZion ,Katznelson Berl 26",2
+Jenia,Premisler,60,M,Israel,Rishon LeZion,HaNurit 1,"Israel ,Rishon LeZion ,HaNurit 1",2
+Olla,Premisler,38,F,Israel,Haifa,Keren HaYesod ,"Israel ,Haifa ,Keren HaYesod ",3
+Noam,Saar,30,M,Israel,Netanya,Moriya ,"Israel ,Netanya ,Moriya ",3
+Assaf,Hazan,30,M,Israel,Tel Aviv-Yafo,Beit Hilel 1,"Israel ,Tel Aviv-Yafo ,Beit Hilel 1",4
+Adam,Efrati,34,M,Israel,Bnei Brak,Dov Gruner 2,"Israel ,Bnei Brak ,Dov Gruner 2",4
+Serj,Itzhakov,34,M,Israel,Tel Aviv-Yafo,Irus 2,"Israel ,Tel Aviv-Yafo ,Irus 2",4
